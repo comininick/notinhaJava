@@ -52,6 +52,11 @@ public class VerificaAprovacao {
             alunoAtual++;
         } while (alunoAtual <= totalAlunos);
 
+        for (int contador = 0; contador <=10; contador++) {
+      
+         for (int contador = 0; contador <=10; contador++) {
+          System.out.println(aprovacao[contador]); 
+        
         System.out.println("Obrigado por utilizar nosso sistema.");
        
         scanner.close();
